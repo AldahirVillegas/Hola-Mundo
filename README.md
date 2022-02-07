@@ -1,5 +1,5 @@
-# Hola-Mundo
-Primer repositorio de prueba
+# Hola Mundo
+Primer repositorio.
 
 Autor: AldahirV.
 Fecha: 06 de Febrero.
